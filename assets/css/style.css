@@ -4,12 +4,13 @@
 
 #head {
     text-align: center;
-    background-image: url('http://businessjournal.pl/wp-content/uploads/2018/01/Stadler-Rail-Issue-125-January-2016-a.jpg');
+    background-image: url('../images/train2.png');
     color: #0057ab;
-    padding: 2%;
+    padding: 3%;
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid #0057ab;
+    font-style: italic;
 }
 
 .panel-custom {
